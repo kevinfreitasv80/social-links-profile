@@ -4,7 +4,7 @@ export default function Main() {
   return (
     <main
       id="main"
-      className="rounded-md bg-stone-800 text-center inline-block p-10 absolute left-1/2 -translate-x-1/2 translate-y-14"
+      className="rounded-md bg-stone-800 text-center inline-block p-10 absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2"
     >
       <section>
         <img
